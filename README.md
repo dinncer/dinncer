@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me
 
-<!--
-**dinncer/dinncer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer working in Istanbul, Turkey.
 
-Here are some ideas to get you started:
+### I Like...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![tux](https://img.shields.io/badge/-tux-lightgrey)
+![centos](https://img.shields.io/badge/-centos-lightgrey)
+![vi](https://img.shields.io/badge/-vi-lightgrey)
+![bash](https://img.shields.io/badge/-bash-lightgrey)
+![cli](https://img.shields.io/badge/-cli-lightgrey)
+![mozilla](https://img.shields.io/badge/-mozilla-lightgrey)
+![gnome](https://img.shields.io/badge/-gnome-lightgrey)
+
+### Publications
+
+[![blog](https://img.shields.io/badge/blog-dincer.info-black)](https://dincer.info)
+[![medium](https://img.shields.io/badge/medium-@dinncer-black)](https://medium.com/@dinncer)
