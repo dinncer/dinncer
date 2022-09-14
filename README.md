@@ -1,7 +1,3 @@
-### About Me
-
-I'm a software developer working in Istanbul, Turkey.
-
 ### I Like...
 
 ![tux](https://img.shields.io/badge/-tux-lightgrey)
@@ -16,3 +12,7 @@ I'm a software developer working in Istanbul, Turkey.
 
 [![blog](https://img.shields.io/badge/blog-dincer.info-black)](https://dincer.info)
 [![medium](https://img.shields.io/badge/medium-@dinncer-black)](https://medium.com/@dinncer)
+
+### Contact
+
+![mail](https://img.shields.io/badge/-dinncer@gmail.com-lightgrey)
