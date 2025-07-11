@@ -7,6 +7,7 @@
 ![cli](https://img.shields.io/badge/-cli-lightgrey)
 ![mozilla](https://img.shields.io/badge/-mozilla-lightgrey)
 ![gnome](https://img.shields.io/badge/-gnome-lightgrey)
+![rust](https://img.shields.io/badge/-rust-lightgrey)
 
 ### Publications
 
